@@ -1,0 +1,10 @@
+C:\Users\nisil\Desktop\OfiangaDB\OfiangaDB\OfiangaDB\bin\Debug\OfiangaDB.dacpac
+C:\Users\nisil\Desktop\OfiangaDB\OfiangaDB\OfiangaDB\bin\Debug\OfiangaDB.dll
+C:\Users\nisil\Desktop\OfiangaDB\OfiangaDB\OfiangaDB\bin\Debug\OfiangaDB.pdb
+C:\Users\nisil\Desktop\OfiangaDB\OfiangaDB\OfiangaDB\obj\Debug\OfiangaDB.sqlproj.AssemblyReference.cache
+C:\Users\nisil\Desktop\OfiangaDB\OfiangaDB\OfiangaDB\obj\Debug\OfiangaDB.dll
+C:\Users\nisil\Desktop\OfiangaDB\OfiangaDB\OfiangaDB\obj\Debug\OfiangaDB.pdb
+C:\Users\nisil\Desktop\OfiangaDB\OfiangaDB\OfiangaDB\obj\Debug\Model.xml
+C:\Users\nisil\Desktop\OfiangaDB\OfiangaDB\OfiangaDB\obj\Debug\refactor.xml
+C:\Users\nisil\Desktop\OfiangaDB\OfiangaDB\OfiangaDB\obj\Debug\postdeploy.sql
+C:\Users\nisil\Desktop\OfiangaDB\OfiangaDB\OfiangaDB\obj\Debug\predeploy.sql
